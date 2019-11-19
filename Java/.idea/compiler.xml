@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="db1start" options="--add-exports=javafx.graphics/com.sun.scenario.effect.impl.sw.sse=ALL-UNNAMED" />
+    </option>
+  </component>
+</project>
