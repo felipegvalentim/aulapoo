@@ -9,8 +9,13 @@ public class App {
         Aluno aluno2 = new Aluno("joao.silva@db1.com.br", "João Silva");
 
         Professor professor = new Professor("igor.silva@db1.com.br", "Igor Silva");
-
-        Materia materia = new Materia();
+        String email = "maiko.cunha@db1.com.br";
+        String nomeProfessor = "Maiko Cunha";
+        String nome = "POO";
+        String descricao = "Abstração, Encapsulamento, Polimorfismo, Herança";
+        Double cargaHoraria = 10.5;
+        Integer quantidadeAulas = 3;
+        Materia materia = new Materia(nome, descricao, cargaHoraria, professor, quantidadeAulas);
         materia.nome = "POO";
         materia.descricao = "Abstração, Encapsulamento, Polimorfismo, Herança";
         materia.cargaHoraria = 10.5;

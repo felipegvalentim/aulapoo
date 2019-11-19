@@ -14,6 +14,34 @@ public class Materia {
 
     public Integer quantidadeAulas;
 
+    public Materia(String nome, String descricao, Double cargaHoraria, Professor professor, Integer quantidadeAulas){
+        this.nome = nome;
+        this.descricao = descricao;
+        this.cargaHoraria = cargaHoraria;
+        this.professor = professor;
+        this.quantidadeAulas = quantidadeAulas;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public Double getCargaHoraria() {
+        return cargaHoraria;
+    }
+
+    public Professor getProfessor() {
+        return professor;
+    }
+
+    public Integer getQuantidadeAulas() {
+        return quantidadeAulas;
+    }
+
     @Override
     public String toString() {
         return "Materia{" +

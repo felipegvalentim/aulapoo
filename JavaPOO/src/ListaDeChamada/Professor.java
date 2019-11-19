@@ -6,5 +6,6 @@ public class Professor extends Pessoa {
     public Professor(String email, String nome) {
         super(email, nome);
     }
+
 }
 
