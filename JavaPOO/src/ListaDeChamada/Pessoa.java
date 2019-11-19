@@ -1,6 +1,14 @@
 package ListaDeChamada;
 
-public class Pessoa {
-    protected String nome;
-    protected String email;
+public abstract class Pessoa {
+    public String nome;
+    public String email;
+
+    @Override
+    public String toString() {
+        return "Pessoa{" +
+                "nome='" + nome + '\'' +
+                ", email='" + email + '\'' +
+                '}';
+    }
 }

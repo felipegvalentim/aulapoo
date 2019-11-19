@@ -4,13 +4,24 @@ import java.sql.Time;
 
 public class Materia {
 
-    private String nome;
+    public String nome;
 
-    private String descricao;
+    public String descricao;
 
-    private Time cargaHoraria;
+    public Double cargaHoraria;
 
-    private String professor;
+    public Professor professor;
 
-    private Integer quantidadeAulas;
+    public Integer quantidadeAulas;
+
+    @Override
+    public String toString() {
+        return "Materia{" +
+                "nome='" + nome + '\'' +
+                ", descricao='" + descricao + '\'' +
+                ", cargaHoraria=" + cargaHoraria +
+                ", professor=" + professor +
+                ", quantidadeAulas=" + quantidadeAulas +
+                '}';
+    }
 }
