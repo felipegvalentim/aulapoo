@@ -2,6 +2,9 @@ package ListaDeChamada;
 
 import org.junit.Assert;
 import org.junit.Test;
+import sun.misc.ASCIICaseInsensitiveComparator;
+
+import java.util.Date;
 
 public class AlunoTeste  {
 
@@ -22,6 +25,22 @@ public class AlunoTeste  {
         } catch (CampoNaoPodeSerNulo naoPodeSerNulo){
             Assert.assertEquals("Nome não pode ser nulo", naoPodeSerNulo.getMessage());
         }
+    }
+    @Test
+    public void deveAdicionarAlunoNaChamada(){
+        String email = "fake@db1.com.br";
+        String nome = "Fake";
+        Date dataId = new Date();
+        Aluno aluno = new Aluno(email, nome);
+        Professor professor = new Professor("email@db1.com.br", "Felipe");
+        Materia materia = new Materia("Java","POO",10.5, professor, 3);
+        Aula aula = new Aula(dataId,materia);
+
+        Assert.assertEquals(0, aula.quantidadeDeAlunosPresentes());
+
+        aula.darPresenca(aluno);
+
+        Assert.assertEquals(1, aula.quantidadeDeAlunosPresentes());
     }
 
     @Test

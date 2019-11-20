@@ -16,7 +16,7 @@ public class App {
 
         Date dataId = new Date();
         List<Aluno> aluno = new ArrayList<Aluno>();
-        Aula aula = new Aula(dataId, materia, aluno);
+        Aula aula = new Aula(dataId, materia);
 
         System.out.println("Professor: " + professor);
         System.out.println("--------------------");
