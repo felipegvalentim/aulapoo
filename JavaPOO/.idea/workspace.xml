@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61f4b689-a191-4fec-b7e1-b654ba8f4598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+    <list default="true" id="c74bfe30-6b8a-4db3-b5b7-704d29d5b4cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aluno.class" afterDir="false" />
@@ -15,36 +14,154 @@
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Professor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/META-INF/JavaPOO.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Professor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aluno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Materia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="16" column="115" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="54" />
+              <folding>
+                <element signature="e#1104#1111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1TrH39khzDMQgt3lPiYcC05J8NR" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/Professor.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/App.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="28" />
+    <option name="y" value="25" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ListaDeChamada" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574270455702" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MateriaTeste.deveCriarMateriaPorMeioDoConstutor">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListaDeChamada.App" />
       <module name="JavaPOO" />
@@ -68,6 +185,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTeste.deveCriarAulaPorMeioDoConstutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ListaDeChamada" />
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AulaTeste" />
+      <option name="METHOD_NAME" value="deveCriarAulaPorMeioDoConstutor" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,8 +223,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MateriaTeste.deveCriarMateriaPorMeioDoConstutor" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.MateriaTeste.deveCriarMateriaPorMeioDoConstutor" />
+        <item itemvalue="JUnit.AulaTeste.deveCriarAulaPorMeioDoConstutor" />
       </list>
     </recent_temporary>
   </component>
@@ -100,30 +234,139 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="61f4b689-a191-4fec-b7e1-b654ba8f4598" name="Default Changelist" comment="" />
-      <created>1574211092898</created>
+      <changelist id="c74bfe30-6b8a-4db3-b5b7-704d29d5b4cb" name="Default Changelist" comment="" />
+      <created>1574267378326</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574211092898</updated>
-      <workItem from="1574211094381" duration="5543000" />
-      <workItem from="1574227672143" duration="3193000" />
+      <updated>1574267378326</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="TestHistory">
+    <history-entry file="AulaTeste_deveCriarAulaPorMeioDoConstutor - 2019.11.20 at 14h 54m 34s.xml">
+      <configuration name="AulaTeste.deveCriarAulaPorMeioDoConstutor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MateriaTeste_deveCriarMateriaPorMeioDoConstutor - 2019.11.20 at 15h 03m 51s.xml">
+      <configuration name="MateriaTeste.deveCriarMateriaPorMeioDoConstutor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MateriaTeste_deveCriarMateriaPorMeioDoConstutor - 2019.11.20 at 15h 07m 03s.xml">
+      <configuration name="MateriaTeste.deveCriarMateriaPorMeioDoConstutor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MateriaTeste_deveCriarMateriaPorMeioDoConstutor - 2019.11.20 at 15h 08m 32s.xml">
+      <configuration name="MateriaTeste.deveCriarMateriaPorMeioDoConstutor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MateriaTeste_deveCriarMateriaPorMeioDoConstutor - 2019.11.20 at 15h 09m 08s.xml">
+      <configuration name="MateriaTeste.deveCriarMateriaPorMeioDoConstutor" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="e#1104#1111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="16" column="115" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

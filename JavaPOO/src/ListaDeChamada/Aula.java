@@ -5,18 +5,19 @@ import java.util.Date;
 import java.util.List;
 
 public class Aula {
-    public Integer dataId;
+    public Date dataId;
     public Materia materia;
     public List<Aluno> listaAluno;
 
-    public Aula(Integer dataId, Materia materia, List<Aluno> listaAluno) {
+    public Aula(Date dataId, Materia materia, List<Aluno> listaAluno) {
         this.dataId = dataId;
         this.materia = materia;
         this.listaAluno = listaAluno;
     }
 
 
-    public Integer getDataId() {
+
+    public Date getDataId() {
         return dataId;
     }
 
@@ -32,8 +33,8 @@ public class Aula {
     public String toString() {
         return "Aula{" +
                 "dataId=" + dataId +
-                ", materia=" + materia +
-                ", listaAluno=" + listaAluno +
+                ", \nmateria=" + materia +
+                ", \nlistaAluno=" + listaAluno +
                 '}';
     }
 }
