@@ -15,6 +15,16 @@ public class Materia {
     public Integer quantidadeAulas;
 
     public Materia(String nome, String descricao, Double cargaHoraria, Professor professor, Integer quantidadeAulas){
+        if(nome == null)
+            throw new CampoNaoPodeSerNulo("Nome não pode ser nulo");
+        if(descricao == null)
+            throw new CampoNaoPodeSerNulo("Descrição não pode ser nulo");
+        if(cargaHoraria == null)
+            throw new CampoNaoPodeSerNulo("Carga Horária não pode ser nulo");
+        if(professor == null)
+            throw new CampoNaoPodeSerNulo("Professor não pode ser nulo");
+        if(quantidadeAulas == null)
+            throw new CampoNaoPodeSerNulo("Quantidade de Aulas não pode ser nulo");
         this.nome = nome;
         this.descricao = descricao;
         this.cargaHoraria = cargaHoraria;

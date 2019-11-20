@@ -10,6 +10,12 @@ public class Aula {
     public List<Aluno> listaAluno;
 
     public Aula(Date dataId, Materia materia, List<Aluno> listaAluno) {
+        if(dataId == null)
+            throw new CampoNaoPodeSerNulo("Data não pode ser nulo");
+        if (materia == null)
+            throw new CampoNaoPodeSerNulo("Materia não pode ser nulo");
+        if(listaAluno == null)
+            throw new CampoNaoPodeSerNulo("Aluno não pode ser nulo");
         this.dataId = dataId;
         this.materia = materia;
         this.listaAluno = listaAluno;

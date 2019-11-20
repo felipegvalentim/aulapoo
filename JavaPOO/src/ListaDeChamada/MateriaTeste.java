@@ -11,7 +11,7 @@ public class MateriaTeste  {
         String nome = "POO";
         String descricao = "Abstração";
         Double cargaHoraria = 10.5;
-        Integer quantidadeAulas = 3;
+        Integer quantidadeAulas = null;
 
         Professor professor = new Professor("Maiko Cunha","maiko.cunha@db1.com.br");
         Materia materia = new Materia(nome, descricao, cargaHoraria, professor, quantidadeAulas);
