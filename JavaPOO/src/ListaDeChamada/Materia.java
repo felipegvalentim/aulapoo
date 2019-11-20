@@ -52,4 +52,8 @@ public class Materia {
                 ", quantidadeAulas=" + quantidadeAulas +
                 '}';
     }
+
+    public long getDataId() {
+        return getDataId();
+    }
 }
