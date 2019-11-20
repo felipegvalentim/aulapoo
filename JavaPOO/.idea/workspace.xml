@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c74bfe30-6b8a-4db3-b5b7-704d29d5b4cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListaDeChamada/CampoNaoPodeSerNulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AlunoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AlunoTeste.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AulaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AulaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Materia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Materia.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/MateriaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/MateriaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Materia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,84 +22,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/CampoNaoPodeSerNulo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aluno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="26" />
-              <folding>
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Professor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="-215">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Materia.java">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="68" />
-              <folding>
-                <element signature="e#1131#1132#0" expanded="true" />
-                <element signature="e#1199#1200#0" expanded="true" />
-                <element signature="e#1273#1274#0" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1838#1839#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="544">
+              <caret line="47" column="79" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aula.java">
+        <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="306">
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -127,14 +75,14 @@
         <option value="$PROJECT_DIR$/src/ListaDeChamada/App.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/CampoNaoPodeSerNulo.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java" />
-        <option value="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/Aluno.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/Professor.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/Materia.java" />
-        <option value="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/Aula.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java" />
         <option value="$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java" />
+        <option value="$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java" />
       </list>
     </option>
   </component>
@@ -181,7 +129,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574272377562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574277099454" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,21 +143,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AulaTeste.deveCriarAulaPorMeioDoConstutor">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.App" />
-      <module name="JavaPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListaDeChamada.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlunoTeste.deveCriarAlunoPorMeioDoConstutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ProfessorTeste">
+    <configuration name="AlunoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPOO" />
       <extension name="coverage">
         <pattern>
@@ -219,13 +154,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="ListaDeChamada" />
       <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AlunoTeste" />
-      <option name="METHOD_NAME" value="deveCriarAlunoPorMeioDoConstutor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AulaTeste.deveCriarAulaPorMeioDoConstutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AulaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPOO" />
       <extension name="coverage">
         <pattern>
@@ -235,13 +169,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="ListaDeChamada" />
       <option name="MAIN_CLASS_NAME" value="ListaDeChamada.AulaTeste" />
-      <option name="METHOD_NAME" value="deveCriarAulaPorMeioDoConstutor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MateriaTeste.deveCriarMateriaPorMeioDoConstutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MateriaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPOO" />
       <extension name="coverage">
         <pattern>
@@ -251,13 +184,28 @@
       </extension>
       <option name="PACKAGE_NAME" value="ListaDeChamada" />
       <option name="MAIN_CLASS_NAME" value="ListaDeChamada.MateriaTeste" />
-      <option name="METHOD_NAME" value="deveCriarMateriaPorMeioDoConstutor" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MateriaTeste.deveJogarExceptionComProfessorNulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListaDeChamada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ListaDeChamada" />
+      <option name="MAIN_CLASS_NAME" value="ListaDeChamada.MateriaTeste" />
+      <option name="METHOD_NAME" value="deveJogarExceptionComProfessorNulo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfessorTeste.deveCriarProfessorPorMeioDoConstutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProfessorTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPOO" />
       <extension name="coverage">
         <pattern>
@@ -267,19 +215,18 @@
       </extension>
       <option name="PACKAGE_NAME" value="ListaDeChamada" />
       <option name="MAIN_CLASS_NAME" value="ListaDeChamada.ProfessorTeste" />
-      <option name="METHOD_NAME" value="deveCriarProfessorPorMeioDoConstutor" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AulaTeste.deveCriarAulaPorMeioDoConstutor" />
-        <item itemvalue="JUnit.MateriaTeste.deveCriarMateriaPorMeioDoConstutor" />
-        <item itemvalue="JUnit.AlunoTeste.deveCriarAlunoPorMeioDoConstutor" />
-        <item itemvalue="JUnit.ProfessorTeste.deveCriarProfessorPorMeioDoConstutor" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.ProfessorTeste" />
+        <item itemvalue="JUnit.MateriaTeste" />
+        <item itemvalue="JUnit.AulaTeste" />
+        <item itemvalue="JUnit.AlunoTeste" />
+        <item itemvalue="JUnit.MateriaTeste.deveJogarExceptionComProfessorNulo" />
       </list>
     </recent_temporary>
   </component>
@@ -297,35 +244,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProfessorTeste_deveCriarProfessorPorMeioDoConstutor - 2019.11.20 at 15h 43m 21s.xml">
-      <configuration name="ProfessorTeste.deveCriarProfessorPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AulaTeste_deveJogarExceptionComDataNulo - 2019.11.20 at 17h 01m 33s.xml">
+      <configuration name="AulaTeste.deveJogarExceptionComDataNulo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProfessorTeste_deveCriarProfessorPorMeioDoConstutor - 2019.11.20 at 15h 43m 29s.xml">
-      <configuration name="ProfessorTeste.deveCriarProfessorPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AulaTeste_deveJogarExceptionComMateriaNulo - 2019.11.20 at 17h 02m 40s.xml">
+      <configuration name="AulaTeste.deveJogarExceptionComMateriaNulo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProfessorTeste_deveCriarProfessorPorMeioDoConstutor - 2019.11.20 at 15h 43m 36s.xml">
-      <configuration name="ProfessorTeste.deveCriarProfessorPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AulaTeste_deveJogarExceptionComAlunoNulo - 2019.11.20 at 17h 03m 13s.xml">
+      <configuration name="AulaTeste.deveJogarExceptionComAlunoNulo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlunoTeste_deveCriarAlunoPorMeioDoConstutor - 2019.11.20 at 15h 45m 47s.xml">
-      <configuration name="AlunoTeste.deveCriarAlunoPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AlunoTeste - 2019.11.20 at 17h 04m 47s.xml">
+      <configuration name="AlunoTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlunoTeste_deveCriarAlunoPorMeioDoConstutor - 2019.11.20 at 15h 45m 58s.xml">
-      <configuration name="AlunoTeste.deveCriarAlunoPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AulaTeste - 2019.11.20 at 17h 05m 02s.xml">
+      <configuration name="AulaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlunoTeste_deveCriarAlunoPorMeioDoConstutor - 2019.11.20 at 15h 46m 04s.xml">
-      <configuration name="AlunoTeste.deveCriarAlunoPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="MateriaTeste - 2019.11.20 at 17h 05m 36s.xml">
+      <configuration name="MateriaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MateriaTeste_deveCriarMateriaPorMeioDoConstutor - 2019.11.20 at 15h 50m 01s.xml">
-      <configuration name="MateriaTeste.deveCriarMateriaPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AulaTeste_deveJogarExceptionComAlunoNulo - 2019.11.20 at 17h 08m 14s.xml">
+      <configuration name="AulaTeste.deveJogarExceptionComAlunoNulo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AulaTeste_deveCriarAulaPorMeioDoConstutor - 2019.11.20 at 15h 52m 23s.xml">
-      <configuration name="AulaTeste.deveCriarAulaPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="AulaTeste - 2019.11.20 at 17h 09m 46s.xml">
+      <configuration name="AulaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AulaTeste_deveCriarAulaPorMeioDoConstutor - 2019.11.20 at 15h 52m 36s.xml">
-      <configuration name="AulaTeste.deveCriarAulaPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="MateriaTeste_deveJogarExceptionComProfessorNulo - 2019.11.20 at 17h 10m 17s.xml">
+      <configuration name="MateriaTeste.deveJogarExceptionComProfessorNulo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AulaTeste_deveCriarAulaPorMeioDoConstutor - 2019.11.20 at 15h 52m 55s.xml">
-      <configuration name="AulaTeste.deveCriarAulaPorMeioDoConstutor" configurationId="JUnit" />
+    <history-entry file="MateriaTeste - 2019.11.20 at 17h 10m 50s.xml">
+      <configuration name="MateriaTeste" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -365,7 +312,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -399,6 +346,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/CampoNaoPodeSerNulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -410,60 +386,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aluno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Professor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Materia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="68" />
+        <state relative-caret-position="289">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="80" />
           <folding>
             <element signature="e#1131#1132#0" expanded="true" />
             <element signature="e#1199#1200#0" expanded="true" />
@@ -477,15 +403,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/Aula.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state>
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/ProfessorTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/AulaTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="187">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListaDeChamada/MateriaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="47" column="79" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
         </state>
       </provider>
     </entry>
