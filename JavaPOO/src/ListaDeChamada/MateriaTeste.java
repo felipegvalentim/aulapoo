@@ -7,6 +7,17 @@ import java.sql.Time;
 
 public class MateriaTeste  {
     @Test
+    public void deveTrocarProfessor(){
+        Professor professor1 = new Professor("felipe@db1.com.br", "Felipe");
+        Professor professor2 = new Professor("rogerio@db1.com.br", "Rogerio");
+
+        Materia materia = new Materia("POO", "Encapsulamento", 10.5, professor1, 3);
+
+        Assert.assertEquals(professor1, materia.getProfessor());
+
+    }
+
+    @Test
     public void deveJogarExceptionComNomeNulo(){
         try {
             Professor professor = new Professor("email@db1.com.br", "Teste");

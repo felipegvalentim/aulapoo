@@ -30,6 +30,11 @@ public class Materia {
         this.cargaHoraria = cargaHoraria;
         this.professor = professor;
         this.quantidadeAulas = quantidadeAulas;
+        this.professor = professor;
+    }
+
+    public void trocaProfessor(Professor professor){
+        this.professor = professor;
     }
 
     public String getNome() {
