@@ -9,14 +9,10 @@ public class AppBanco {
         Conta c2 = new Conta("Rogeiro", 2, 1500);
 
         c1.extrato();
-        c2.extrato();
-
-        c1.transferir(c2,400);
-        c2.transferir(c1, 800);
-
+        c1.sacar(200);
         c1.extrato();
-        c2.extrato();
-
+        c1.depositar(100);
+        c1.extrato();
 
     }
 

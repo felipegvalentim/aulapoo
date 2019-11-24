@@ -2,30 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec90b52-b2fe-41be-8417-3cbc9ecc5b55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AlunoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AlunoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aula.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AulaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AulaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/CampoNaoPodeSerNulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/CampoNaoPodeSerNulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Materia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Materia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/MateriaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/MateriaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Professor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente/AppBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/AppBanco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaDeChamada/AlunoTeste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -39,6 +33,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DB1Start--ContaCorrente-master" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -53,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ContaTeste.deveSacar">
     <configuration name="AppBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContaCorrente.AppBanco" />
       <module name="JavaPOO" />
@@ -67,8 +62,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ContaTeste.deveSacar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="ContaCorrente.ContaTeste" />
+      <option name="METHOD_NAME" value="deveSacar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContaTeste.deveSacar" />
         <item itemvalue="Application.AppBanco" />
       </list>
     </recent_temporary>
@@ -85,6 +97,9 @@
       <updated>1574534669752</updated>
       <workItem from="1574534671169" duration="979000" />
       <workItem from="1574537081081" duration="5881000" />
+      <workItem from="1574543341473" duration="1946000" />
+      <workItem from="1574573817893" duration="46000" />
+      <workItem from="1574635842534" duration="2559000" />
     </task>
     <servers />
   </component>

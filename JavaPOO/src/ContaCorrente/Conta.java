@@ -3,7 +3,7 @@ public class Conta {
     //Atributos
     public int numConta;
     private String dono;
-    private float saldo;
+    public double saldo;
     private int operacoes;
 
     //Método para mostrar o extrato
@@ -18,7 +18,7 @@ public class Conta {
     }
 
     //Métodos personalizados
-    public void sacar(float v) {
+    public double sacar(double v) {
         if(this.getSaldo()>= v){
             this.setSaldo(this.getSaldo() - v);
             System.out.println("Saque de "+ v +" reais realizado com sucesso da conta de " + this.getDono());
@@ -27,16 +27,17 @@ public class Conta {
         }else{
             System.out.println("Saldo insuficiente para saque");
         }
+        return v;
     }
 
-    public void depositar(float v) {
+    public void depositar(double v) {
         this.setSaldo(this.getSaldo() + v);
         System.out.println("Deposito de " + v + " reais realizado com sucesso na conta de " + this.getDono());
         separar();
         this.setOperacoes(this.getOperacoes()+1);
     }
 
-    public void transferir(Conta outra, float v) {
+    public void transferir(Conta outra, double v) {
         if(saldo > 0){
             this.sacar(v);
             outra.depositar(v);
@@ -58,7 +59,7 @@ public class Conta {
     }
 
     //Métodos especiais
-    public Conta(String dono, int numConta, float saldo) {
+    public Conta(String dono, int numConta, double saldo) {
         this. dono = dono;
         this. numConta = numConta;
         this.saldo = saldo;
@@ -82,11 +83,11 @@ public class Conta {
         this.dono = dono;
     }
 
-    public float getSaldo() {
+    public double getSaldo() {
         return saldo;
     }
 
-    public void setSaldo(float v) {
+    public void setSaldo(double v) {
         this.saldo = v;
     }
 
