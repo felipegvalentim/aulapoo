@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec90b52-b2fe-41be-8417-3cbc9ecc5b55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente/AppBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/AppBanco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Atualizações" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1U1quCyO7ItUZxHv6OmFj3pthXu" />
@@ -99,7 +104,7 @@
       <workItem from="1574537081081" duration="5881000" />
       <workItem from="1574543341473" duration="1946000" />
       <workItem from="1574573817893" duration="46000" />
-      <workItem from="1574635842534" duration="2559000" />
+      <workItem from="1574635842534" duration="7319000" />
     </task>
     <servers />
   </component>
@@ -118,5 +123,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando os testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando os testes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPOO$ContaTeste_deveSacar.ic" NAME="ContaTeste.deveSacar Coverage Results" MODIFIED="1574641883356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ContaCorrente.*</FILTER>
+    </SUITE>
   </component>
 </project>

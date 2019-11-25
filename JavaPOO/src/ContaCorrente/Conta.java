@@ -4,7 +4,7 @@ public class Conta {
     public int numConta;
     private String dono;
     public double saldo;
-    private int operacoes;
+    public int operacoes;
 
     //Método para mostrar o extrato
     public void extrato(){
