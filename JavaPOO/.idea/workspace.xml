@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec90b52-b2fe-41be-8417-3cbc9ecc5b55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +38,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DB1Start--ContaCorrente-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContaTeste.deveSacar">
+  <component name="RunManager" selected="JUnit.ContaTeste.deveDepositar">
     <configuration name="AppBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContaCorrente.AppBanco" />
       <module name="JavaPOO" />
@@ -63,6 +63,37 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="ContaCorrente.ContaTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaTeste.deveDepositar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContaCorrente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ContaCorrente" />
+      <option name="MAIN_CLASS_NAME" value="ContaCorrente.ContaTeste" />
+      <option name="METHOD_NAME" value="deveDepositar" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,7 +116,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContaTeste.deveDepositar" />
         <item itemvalue="JUnit.ContaTeste.deveSacar" />
+        <item itemvalue="JUnit.ContaTeste" />
         <item itemvalue="Application.AppBanco" />
       </list>
     </recent_temporary>
@@ -104,7 +137,7 @@
       <workItem from="1574537081081" duration="5881000" />
       <workItem from="1574543341473" duration="1946000" />
       <workItem from="1574573817893" duration="46000" />
-      <workItem from="1574635842534" duration="7319000" />
+      <workItem from="1574635842534" duration="8680000" />
     </task>
     <servers />
   </component>
