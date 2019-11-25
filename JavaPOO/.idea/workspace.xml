@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec90b52-b2fe-41be-8417-3cbc9ecc5b55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,8 +117,8 @@
       <list>
         <item itemvalue="JUnit.ContaTeste.deveDepositar" />
         <item itemvalue="JUnit.ContaTeste.deveSacar" />
-        <item itemvalue="JUnit.ContaTeste" />
         <item itemvalue="Application.AppBanco" />
+        <item itemvalue="JUnit.ContaTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +137,7 @@
       <workItem from="1574543341473" duration="1946000" />
       <workItem from="1574573817893" duration="46000" />
       <workItem from="1574635842534" duration="8680000" />
+      <workItem from="1574695820141" duration="929000" />
     </task>
     <servers />
   </component>

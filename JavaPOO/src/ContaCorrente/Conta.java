@@ -2,7 +2,7 @@ package ContaCorrente;
 public class Conta {
     //Atributos
     public int numConta;
-    private String dono;
+    public String dono;
     public double saldo;
     public int operacoes;
 
@@ -30,11 +30,12 @@ public class Conta {
         return v;
     }
 
-    public void depositar(double v) {
+    public double depositar(double v) {
         this.setSaldo(this.getSaldo() + v);
         System.out.println("Deposito de " + v + " reais realizado com sucesso na conta de " + this.getDono());
         separar();
         this.setOperacoes(this.getOperacoes()+1);
+        return v;
     }
 
     public void transferir(Conta outra, double v) {
