@@ -1,43 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec90b52-b2fe-41be-8417-3cbc9ecc5b55" name="Default Changelist" comment="">
+    <list default="true" id="a3cb0fd0-d040-4ec4-808a-ac086f1a7473" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/AppBanco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/AppBanco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/Conta.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ContaCorrente/ContaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AlunoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AlunoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Aula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AulaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/AulaTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/CampoNaoPodeSerNulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/CampoNaoPodeSerNulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Materia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Materia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/MateriaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/MateriaTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPOO/ListaDeChamada/ProfessorTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPOO/META-INF/JavaPOO.kotlin_module" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Atualizações" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1U1quCyO7ItUZxHv6OmFj3pthXu" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="69" />
+    <option name="y" value="-18" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ContaCorrente" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPOO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ListaDeChamada" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575399659108" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,51 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContaTeste.deveTransferir">
-    <configuration name="AppBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContaCorrente.AppBanco" />
-      <module name="JavaPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ContaCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ContaCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ContaCorrente" />
-      <option name="MAIN_CLASS_NAME" value="ContaCorrente.ContaTeste" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContaTeste.deveDepositar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ContaCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ContaCorrente" />
-      <option name="MAIN_CLASS_NAME" value="ContaCorrente.ContaTeste" />
-      <option name="METHOD_NAME" value="deveDepositar" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="ContaTeste.deveSacar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPOO" />
       <extension name="coverage">
@@ -112,29 +114,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaTeste.deveTransferir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaPOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ContaCorrente.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ContaCorrente" />
-      <option name="MAIN_CLASS_NAME" value="ContaCorrente.ContaTeste" />
-      <option name="METHOD_NAME" value="deveTransferir" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ContaTeste.deveTransferir" />
-        <item itemvalue="JUnit.ContaTeste.deveDepositar" />
         <item itemvalue="JUnit.ContaTeste.deveSacar" />
-        <item itemvalue="Application.AppBanco" />
-        <item itemvalue="JUnit.ContaTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -143,43 +125,87 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bec90b52-b2fe-41be-8417-3cbc9ecc5b55" name="Default Changelist" comment="" />
-      <created>1574534669752</created>
+      <changelist id="a3cb0fd0-d040-4ec4-808a-ac086f1a7473" name="Default Changelist" comment="" />
+      <created>1575398747023</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574534669752</updated>
-      <workItem from="1574534671169" duration="979000" />
-      <workItem from="1574537081081" duration="5881000" />
-      <workItem from="1574543341473" duration="1946000" />
-      <workItem from="1574573817893" duration="46000" />
-      <workItem from="1574635842534" duration="8680000" />
-      <workItem from="1574695820141" duration="1311000" />
+      <updated>1575398747023</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="TestHistory">
+    <history-entry file="ContaTeste_deveSacar - 2019.12.03 at 17h 00m 38s.xml">
+      <configuration name="ContaTeste.deveSacar" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criando os testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando os testes" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ContaCorrente/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContaCorrente/AppBanco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContaCorrente/ContaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JavaPOO$ContaTeste_deveSacar.ic" NAME="ContaTeste.deveSacar Coverage Results" MODIFIED="1574641883356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ContaCorrente.*</FILTER>
-    </SUITE>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
